@@ -1,0 +1,8 @@
+Model Information:
+* title:	Blue beach umbrella
+* source:	https://sketchfab.com/3d-models/blue-beach-umbrella-8f1f52f619c34e478bfa2e1163fa7c28
+* author:	assetfactory (https://sketchfab.com/assetfactory)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
